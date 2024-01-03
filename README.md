@@ -40,5 +40,5 @@ I started programming on **December, 2022**. With some experience, I started pro
 
 <a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Profile Views"/></a>
 
-| <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/1187980688864063489)](https://discord.com/users/1187980688864063489"> | <img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" /> |
+| <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/1187980688864063489"> | <img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" /> |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
